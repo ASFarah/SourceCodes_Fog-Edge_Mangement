@@ -1,4 +1,4 @@
-# Fog/Edge management: A review of source codes
+# Fog/Edge management: A survey of source codes
 
 This page reviews the source codes found, during my research works, of Fog/Edge management solutions published in the literature.
 It also reports some links for often-used data traces, Fog/Edge topologies, and IoT applications.
