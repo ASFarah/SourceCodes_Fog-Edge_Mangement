@@ -102,7 +102,7 @@ __TOC__
 - [Python] [Chen, Y. T., & Liao, W. (2019, May). **"Mobility-aware service function chaining in 5G wireless networks with mobile edge computing"**. In ICC. pp. 1-6.](https://ieeexplore.ieee.org/iel7/8753818/8761046/08761306.pdf?casa_token=d5ChthskjiMAAAAA:5TdoQ1KYRB-sY3Vn0wVq_wj647R6HXdRxHa8cyt5MzTLg85qRGrz2RGEZHuEySXP4m0186z1hW8) [[**Source code**]](https://github.com/yantingchn/MVNFP)
 
 
-## B. Fog-Edge Computing simulators/framewworks
+## B. Fog-Edge Computing simulators/frameworks
 ---
 - `VirtFogSim`. [Matlab] [Scarpiniti, M., Baccarelli, E., & Momenzadeh, A. (2019). **"VirtFogSim: A parallel toolbox for dynamic energy-delay performance testing and optimization of 5G mobile-fog-cloud virtualized platforms"**. Applied Sciences, 9(6), 1160.](https://www.mdpi.com/2076-3417/9/6/1160/htm) [[**Source code**]](https://github.com/mscarpiniti/VirtFogSim)
 
