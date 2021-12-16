@@ -35,12 +35,10 @@ __TOC__
 
 >#### + Mathematical Programming/Constraint Programming
   - [Python] [Santos, J., Wauters, T., Volckaert, B., & De Turck, F. (2021). **"Towards end-to-end resource provisioning in Fog Computing over Low Power Wide Area Networks"**. Journal of Network and Computer Applications, 175, 102915.](https://www.sciencedirect.com/science/article/pii/S108480452030374X?casa_token=2FYO7SqZA8sAAAAA:yKx48A2x0iUnWZEX2Gf4B3UDLl85a9dadX1wh_EqfaL7-msHDKsPNbiWBv-FmFApB07-l8nbXxI) [[**Source code**]](https://github.com/jpedro1992/gym-fog)
-
-  >#### + Reinforcement Learning
-  - [Python] [Towers, M (2020). **"Reinforcement learning agents for online flexible resource allocation in mobile Edge Computing"**.](https://github.com/pseudo-rnd-thoughts/Online-Flexible-Resource-Allocation/blob/master/final_report/final_report.pdf) [[**Source Code**]](https://github.com/pseudo-rnd-thoughts/Online-Flexible-Resource-Allocation)
-
+  
   >#### + Deep Reinforcement Learning
   - [Python] [Santos, J., Wauters, T., Volckaert, B., & De Turck, F. (2021). **"Resource provisioning in fog computing through deep reinforcement learning."**](http://dl.ifip.org/db/conf/im/im2021mini/210942.pdf) [[**Source Code**]](https://github.com/jpedro1992/gym-fog)
+  - [Python] [Towers, M (2020). **"Reinforcement learning agents for online flexible resource allocation in mobile Edge Computing"**.](https://github.com/pseudo-rnd-thoughts/Online-Flexible-Resource-Allocation/blob/master/final_report/final_report.pdf) [[**Source Code**]](https://github.com/pseudo-rnd-thoughts/Online-Flexible-Resource-Allocation)
 
   >#### + PSO (Particle Swarm Optimization)
   - [Java] [Fakhfakh, F., Neji, A., Cheikhrouhou, S., & Kallel, S. (2019, October). Optimizing the performance of timed-constrained business processes in cloud-fog environment. In International Conference on Model and Data Engineering (pp. 78-90). Springer, Cham.](https://link.springer.com/chapter/10.1007/978-3-030-32213-7_6) [[**Source Code**]](https://github.com/fairouz1/PSO4CFS)
