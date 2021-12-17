@@ -143,7 +143,7 @@ __TOC__
 ### - Other interesting simulators
 
 - `SniperSim`. [Python] [Multi-core simulator.](https://snipersim.org//w/The_Sniper_Multi-Core_Simulator) 
-
+-->
 ## C. Data traces
 ---
  * [Microscopic vehicular mobility trace of Europarc roundabout, Creteil, France](http://vehicular-mobility-trace.github.io)
