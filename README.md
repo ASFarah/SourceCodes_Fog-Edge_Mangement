@@ -1,7 +1,7 @@
 # Fog/Edge management: A survey of source codes
 
 This page reviews the source codes found, during my research works, of Fog/Edge management solutions published in the literature.
-It also reports some links for often-used data traces, Fog/Edge topologies, and IoT applications.
+It also reports some Fog-Edge Computing simulators/frameworks, often-used data traces, Fog/Edge topologies, IoT applications, and Fog/Edge Computing Projects.
 
 ## Preface
 
@@ -141,7 +141,6 @@ __TOC__
 - `FogFlow`. [Go] [FogFlow: an IoT Edge Computing framework.](https://github.com/smartfog/fogflow) 
 <!-- 
 ### - Other interesting simulators
-
 - `SniperSim`. [Python] [Multi-core simulator.](https://snipersim.org//w/The_Sniper_Multi-Core_Simulator) 
 -->
 ## C. Data traces
