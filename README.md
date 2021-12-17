@@ -41,7 +41,7 @@ __TOC__
   - [Python] [Towers, M (2020). **"Reinforcement learning agents for online flexible resource allocation in mobile Edge Computing"**.](https://github.com/pseudo-rnd-thoughts/Online-Flexible-Resource-Allocation/blob/master/final_report/final_report.pdf) [[**Source Code**]](https://github.com/pseudo-rnd-thoughts/Online-Flexible-Resource-Allocation)
 
   >#### + PSO (Particle Swarm Optimization)
-  - [Java] [Fakhfakh, F., Neji, A., Cheikhrouhou, S., & Kallel, S. (2019, October). Optimizing the performance of timed-constrained business processes in cloud-fog environment. In International Conference on Model and Data Engineering (pp. 78-90). Springer, Cham.](https://link.springer.com/chapter/10.1007/978-3-030-32213-7_6) [[**Source Code**]](https://github.com/fairouz1/PSO4CFS)
+  - [Java] [Fakhfakh, F., Neji, A., Cheikhrouhou, S., & Kallel, S. (2019). **"Optimizing the performance of timed-constrained business processes in cloud-fog environment"**. In International Conference on Model and Data Engineering (pp. 78-90). Springer, Cham.](https://link.springer.com/chapter/10.1007/978-3-030-32213-7_6) [[**Source Code**]](https://github.com/fairouz1/PSO4CFS)
    
   >#### + Heuristics
   - [Go] [Agrawal, N., Rellermeyer, J., & Ding, A. Y. (2019). **"IoT resource-aware orchestration framework for edge computing"**. In Proceedings of the 15th International Conference on emerging Networking EXperiments and Technologies (pp. 62-64).](https://dl.acm.org/doi/pdf/10.1145/3360468.3368179?casa_token=mER71yHQzV8AAAAA:ONmXtsyzZQUuzokUgOOE7S78p49ex1E7TibCvY-i9MrspvVdQpf5udMptmALjRxNutOLNuV8CCZQbA) [[**Source Code**]](https://github.com/niketagrawal/EDIRO)
