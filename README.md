@@ -54,11 +54,14 @@ __TOC__
 
 >#### + Mathematical Programming/Constraint Programming
  - [Java] [Aït-Salaht, F., Desprez, F., & Lebre, A. (2020). **"An overview of service placement problem in fog and edge computing"**. ACM Computing Surveys (CSUR), 53(3), 1-35.](https://hal.inria.fr/hal-02313711/document) [[**Source code**]](https://github.com/ASFarah/SPP)
- - 
+
+>#### + Reinforcement Learning / Deep Reinforcement Learning
+- [Python] [Tuli, S., Casale, G., & Jennings, N. R. (2021). **"GOSH: Task Scheduling Using Deep Surrogate Models in Fog Computing Environments"**. arXiv preprint arXiv:2112.08916.](https://arxiv.org/pdf/2112.08916.pdf)  [[**Source code**]](https://github.com/imperial-qore/COSCO/tree/gosh)
+
 >#### + Partition-based optimization
 - [Python] [Lera, I., Guerrero, C., & Juiz, C. (2018). **"Availability-aware service placement policy in fog computing based on graph partitions"**. IEEE Internet of Things Journal, 6(2), 3641-3651.](https://ieeexplore.ieee.org/iel7/6488907/6702522/08588297.pdf?casa_token=4kcKkjISfRsAAAAA:Nxm6TU3pfsk9VqE2dvHoeZa7kBvqoxqBbyRqYzvjygRDgMWjLdTmHfz_oP2jvGl_Z9mEbAyGY4I) [[**Source code**]](https://github.com/acsicuib/FogServicePlacement-ILPvsCN)
 
->#### + Genetic-based Algorrithms
+>#### + Genetic-based Algorithms
 - [Python] [Guerrero, C., Lera, I., & Juiz, C. (2019). **"Evaluation and efficiency comparison of evolutionary algorithms for service placement optimization in fog architectures"**. Future Generation Computer Systems, 97, 131-144.](https://www.sciencedirect.com/science/article/pii/S0167739X18325147) [[**Source code**]](https://github.com/acsicuib/GA4FogPlacement)
  - [Matlab] [Hoseiny, F., Azizi, S., Shojafar, M., Ahmadiazar, F., & Tafazolli, R. (2021, May). **"PGA: a priority-aware genetic algorithm for task scheduling in heterogeneous fog-cloud computing"**. In IEEE INFOCOM 2021-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS) (pp. 1-6). IEEE.](https://ieeexplore.ieee.org/iel7/9484327/9484428/09484436.pdf?casa_token=9pQu1j06ZrIAAAAA:nuKLSIfbbqfaIr3_7oRbqD0vQ-dZnT3IR4WP7D6529kZJ9scpb50GiKQ3pSrrkFoZKDxiKvONrw) [[**Source Code**]](https://github.com/mshojafar/sourcecodes/blob/master/Azizi2021-INFOCOM-PGA_Sourcecode.zip)
 
