@@ -138,7 +138,10 @@ __TOC__
 
 - `ENORM`. [Python] [Wang, N., Varghese, B., Matthaiou, M., & Nikolopoulos, D. S. (2017). **"ENORM: A framework for edge node resource management. IEEE transactions on services computing"**.](https://ieeexplore.ieee.org/iel7/4629386/4629387/08039523.pdf?casa_token=S7tAvKq0ZJoAAAAA:jf61gOckd4haKuYFDpOlW2JUgQUu3SNmgfg_5vjtVtz-6srgcRYZSoagUzUMqkC32TNObSlcnPg) [[**Source code**]](https://github.com/qub-blesson/ENORM)
 
+- `ECHO`. [Java] [Ravindra, P., Khochare, A., Reddy, S. P., Sharma, S., Varshney, P., & Simmhan, Y. (2017). **ECHO: An Adaptive Orchestration Platform for Hybrid Dataflows across Cloud and Edge**. In International Conference on Service-Oriented Computing (pp. 395-410).](https://arxiv.org/pdf/1707.00889.pdf) [[**Source code**]](https://github.com/dream-lab/echo)
+
 - `FogFlow`. [Go] [FogFlow: an IoT Edge Computing framework.](https://github.com/smartfog/fogflow) 
+
 - `Amazon, Azure IoT Edge`. [NodeJS, C# or Java] [Amazon, Azure IoT Edge](https://azure.microsoft.com/en-us/services/iot-edge/)
 <!-- 
 ### - Other interesting simulators
