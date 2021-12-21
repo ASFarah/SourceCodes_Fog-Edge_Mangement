@@ -175,4 +175,4 @@ __TOC__
  - [Beyond the Clouds, The Discovery Initiative](https://beyondtheclouds.github.io/)
  - [projet FogGuru](http://www.fogguru.eu/)
  - [Fog Computing Project](https://nmsl.cs.nthu.edu.tw/fog-computing-project/)
-
+ - [Internet of Things (IoT) and Fog computing](https://mc.cs.ut.ee/research/internet-of-things/)
