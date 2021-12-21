@@ -139,7 +139,7 @@ __TOC__
 - `ENORM`. [Python] [Wang, N., Varghese, B., Matthaiou, M., & Nikolopoulos, D. S. (2017). **"ENORM: A framework for edge node resource management. IEEE transactions on services computing"**.](https://ieeexplore.ieee.org/iel7/4629386/4629387/08039523.pdf?casa_token=S7tAvKq0ZJoAAAAA:jf61gOckd4haKuYFDpOlW2JUgQUu3SNmgfg_5vjtVtz-6srgcRYZSoagUzUMqkC32TNObSlcnPg) [[**Source code**]](https://github.com/qub-blesson/ENORM)
 
 - `FogFlow`. [Go] [FogFlow: an IoT Edge Computing framework.](https://github.com/smartfog/fogflow) 
-
+- `Amazon, Azure IoT Edge`. [NodeJS, C# or Java] [Amazon, Azure IoT Edge](https://azure.microsoft.com/en-us/services/iot-edge/)
 <!-- 
 ### - Other interesting simulators
 - `SniperSim`. [Python] [Multi-core simulator.](https://snipersim.org//w/The_Sniper_Multi-Core_Simulator) 
