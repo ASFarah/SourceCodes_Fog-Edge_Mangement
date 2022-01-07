@@ -105,9 +105,8 @@ __TOC__
 
 ## B. Fog-Edge Computing simulators/frameworks
 ---
-- `VirtFogSim`. [Matlab] [Scarpiniti, M., Baccarelli, E., & Momenzadeh, A. (2019). **"VirtFogSim: A parallel toolbox for dynamic energy-delay performance testing and optimization of 5G mobile-fog-cloud virtualized platforms"**. Applied Sciences, 9(6), 1160.](https://www.mdpi.com/2076-3417/9/6/1160/htm) [[**Source code**]](https://github.com/mscarpiniti/VirtFogSim)
+- `CloudSim`. [Java] [Calheiros, R. N., Ranjan, R., Beloglazov, A., De Rose, C. A., & Buyya, R. (2011). **"CloudSim: a toolkit for modeling and simulation of cloud computing environments and evaluation of resource provisioning algorithms"**. Software: Practice and experience, 41(1), 23-50.](http://www.buyya.com/papers/CloudSim2010.pdf) [[**Source code**]](https://github.com/Cloudslab/cloudsim)
 
-- `FogNetSim++`. [C] [Qayyum, T., Malik, A. W., Khattak, M. A. K., Khalid, O., & Khan, S. U. (2018). **"FogNetSim++: A toolkit for modeling and simulation of distributed fog environment"**. IEEE Access, 6, 63570-63583.](https://ieeexplore.ieee.org/iel7/6287639/6514899/08502760.pdf) [[**Source code**]](https://github.com/rtqayyum/fognetsimpp)
 
 - `iFogSim`.  [Java] [Gupta, H., Vahid Dastjerdi, A., Ghosh, S. K., & Buyya, R. (2017). **"iFogSim: A toolkit for modeling and simulation of resource management techniques in the Internet of Things, Edge and Fog computing environments"**. Software: Practice and Experience, 47(9), 1275-1296.](https://arxiv.org/pdf/1606.02007.pdf) [[**Source code**]](https://github.com/Cloudslab/iFogSim)
 
@@ -126,6 +125,10 @@ __TOC__
 - `MobFogSim`. [Java] [Puliafito, C., Gonçalves, D. M., Lopes, M. M., Martins, L. L., Madeira, E., Mingozzi, E., ... & Bittencourt, L. F. (2020). **"MobFogSim: Simulation of mobility and migration for fog computing"**. Simulation Modelling Practice and Theory, 101, 102062.](https://www.sciencedirect.com/science/article/pii/S1569190X19301935?casa_token=oz5u1dhMK_sAAAAA:-COv4G7LjuTN1gCdGTtayPgyGYm_l6lwG1ox_zx2L6IdcgC4iCiLjhdSC8heFbhubGt5LAj0JvE) [[**Source code**]](https://github.com/diogomg/MobFogSim)
 
 - `Emufog`. [Kotlin] [Mayer, R., Graser, L., Gupta, H., Saurez, E., & Ramachandran, U. (2017, October). **"Emufog: Extensible and scalable emulation of large-scale fog computing infrastructures"**. In IEEE FWC. pp. 1-6.](https://ieeexplore.ieee.org/iel7/8364427/8368514/08368525.pdf?casa_token=ei8AH_Jl450AAAAA:LepNJSrHBz1WK_helYtKyZRMF2syZN6ojC9HrnUOEkZFzA9evHbxXSLNF8cj1HMGvJ6xCQ-kmY4) [[**Source code**]](https://github.com/emufog/emufog)
+
+- `VirtFogSim`. [Matlab] [Scarpiniti, M., Baccarelli, E., & Momenzadeh, A. (2019). **"VirtFogSim: A parallel toolbox for dynamic energy-delay performance testing and optimization of 5G mobile-fog-cloud virtualized platforms"**. Applied Sciences, 9(6), 1160.](https://www.mdpi.com/2076-3417/9/6/1160/htm) [[**Source code**]](https://github.com/mscarpiniti/VirtFogSim)
+
+- `FogNetSim++`. [C] [Qayyum, T., Malik, A. W., Khattak, M. A. K., Khalid, O., & Khan, S. U. (2018). **"FogNetSim++: A toolkit for modeling and simulation of distributed fog environment"**. IEEE Access, 6, 63570-63583.](https://ieeexplore.ieee.org/iel7/6287639/6514899/08502760.pdf) [[**Source code**]](https://github.com/rtqayyum/fognetsimpp)
 
 - `FogDirMime`. [Python] [Forti, S., Ibrahim, A., & Brogi, A. (2019). **"Mimicking FogDirector application management"**. SICS Software-Intensive Cyber-Physical Systems, 34(2), 151-161.](http://pages.di.unipi.it/forti/pdf/journals/2018/csrd18.pdf) [[**Source Code**]](https://github.com/di-unipi-socc/FogDirMime/)
 
