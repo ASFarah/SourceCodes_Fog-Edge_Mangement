@@ -128,7 +128,7 @@ __TOC__
 
 - `VirtFogSim`. [Matlab] [Scarpiniti, M., Baccarelli, E., & Momenzadeh, A. (2019). **"VirtFogSim: A parallel toolbox for dynamic energy-delay performance testing and optimization of 5G mobile-fog-cloud virtualized platforms"**. Applied Sciences, 9(6), 1160.](https://www.mdpi.com/2076-3417/9/6/1160/htm) [[**Source code**]](https://github.com/mscarpiniti/VirtFogSim)
 
-- `FogNetSim++`. [C] [Qayyum, T., Malik, A. W., Khattak, M. A. K., Khalid, O., & Khan, S. U. (2018). **"FogNetSim++: A toolkit for modeling and simulation of distributed fog environment"**. IEEE Access, 6, 63570-63583.](https://ieeexplore.ieee.org/iel7/6287639/6514899/08502760.pdf) [[**Source code**]](https://github.com/rtqayyum/fognetsimpp)
+- `FogNetSim++`. [OMNeT++] [Qayyum, T., Malik, A. W., Khattak, M. A. K., Khalid, O., & Khan, S. U. (2018). **"FogNetSim++: A toolkit for modeling and simulation of distributed fog environment"**. IEEE Access, 6, 63570-63583.](https://ieeexplore.ieee.org/iel7/6287639/6514899/08502760.pdf) [[**Source code**]](https://github.com/rtqayyum/fognetsimpp)
 
 - `FogDirMime`. [Python] [Forti, S., Ibrahim, A., & Brogi, A. (2019). **"Mimicking FogDirector application management"**. SICS Software-Intensive Cyber-Physical Systems, 34(2), 151-161.](http://pages.di.unipi.it/forti/pdf/journals/2018/csrd18.pdf) [[**Source Code**]](https://github.com/di-unipi-socc/FogDirMime/)
 
@@ -147,12 +147,16 @@ __TOC__
 - `ECHO`. [Java] [Ravindra, P., Khochare, A., Reddy, S. P., Sharma, S., Varshney, P., & Simmhan, Y. (2017). **"ECHO: An Adaptive Orchestration Platform for Hybrid Dataflows across Cloud and Edge"**. In International Conference on Service-Oriented Computing (pp. 395-410).](https://arxiv.org/pdf/1707.00889.pdf) [[**Source code**]](https://github.com/dream-lab/echo)
 
 - `FogFlow`. [Go] [FogFlow: an IoT Edge Computing framework.](https://github.com/smartfog/fogflow) 
+- `EdgeSim'. [Java] [EdgeSim: An open-source simulator of edge computing and caching](https://github.com/XiaofeiTJU/EdgeSim)
+- `IoTSim-Edge`. [Java] [Jha, D. N. et al. (2020). **"IoTSim‐Edge: A simulation framework for modeling the behavior of Internet of Things and edge computing environments"**. Software: Practice and Experience, 50(6), 844-867.](https://arxiv.org/pdf/1910.03026.pdf)  [[**Source code**]](https://github.com/DNJha/IoTSim-Edge)
+- `IoTSim-Osmosis`. [Java] [Alwasel, K. et al. (2021). **"IoTSim-Osmosis: A framework for modeling and simulating IoT applications over an edge-cloud continuum"**. Journal of Systems Architecture, 116, 101956.](https://dsg.tuwien.ac.at/team/sd/papers/Zeitschriftenartikel_2021_SD_IotSim.pdf) [[**Source code**]](https://github.com/kalwasel/IoTSim-Osmosis)
+
+- `LighMANO`. [Python] [Riggio, R., Khan, S. N., Subramanya, T., Yahia, I. G. B., & Lopez, D. (2018, April). **"LightMANO: Converging NFV and SDN at the Edges of the Network"**. In NOMS 2018-2018 IEEE/IFIP Network Operations and Management Symposium (pp. 1-9). IEEE.](https://www.researchgate.net/profile/Tejas-Subramanya/publication/326284343_LightMANO_Converging_NFV_and_SDN_at_the_edges_of_the_network/links/5dd3e38a4585156b351ed5b5/LightMANO-Converging-NFV-and-SDN-at-the-edges-of-the-network.pdf) [[**Source code**]](https://github.com/lightmano/)
 
 - `Amazon, Azure IoT Edge`. [NodeJS, C# or Java] [Amazon, Azure IoT Edge](https://azure.microsoft.com/en-us/services/iot-edge/)
-<!-- 
-### - Other interesting simulators
+
 - `SniperSim`. [Python] [Multi-core simulator.](https://snipersim.org//w/The_Sniper_Multi-Core_Simulator) 
--->
+- `Gem5`. [C++] [Gem5: Modular platform for computer-system architecture research, encompassing system-level architecture as well as processor microarchitecture.](https://www.gem5.org/)
 
 ## C. Data traces
 ---
@@ -169,11 +173,15 @@ __TOC__
  * [Wide mawi working group traffic archive](http://mawi.wide.ad.jp)
  * [AutoML – training high-quality custom machine learning models with minimum effort and machine learning expertise.](https://cloud.google.com/automl/)
  * [Alibaba Cluster Trace Program](https://github.com/alibaba/clusterdata)
+ 
+
 ## D. Fog/Edge topologies
 ---
- * The [BRITE](https://www.nsnam.org/doxygen/group__brite.html) network generator. <!-- Refs: [Mayer et al.](https://ieeexplore.ieee.org/iel7/8364427/8368514/08368525.pdf?casa_token=ei8AH_Jl450AAAAA:LepNJSrHBz1WK_helYtKyZRMF2syZN6ojC9HrnUOEkZFzA9evHbxXSLNF8cj1HMGvJ6xCQ-kmY4)-->
+ * The [BRITE](https://www.nsnam.org/doxygen/group__brite.html) network generator <!-- Refs: [Mayer et al.](https://ieeexplore.ieee.org/iel7/8364427/8368514/08368525.pdf?casa_token=ei8AH_Jl450AAAAA:LepNJSrHBz1WK_helYtKyZRMF2syZN6ojC9HrnUOEkZFzA9evHbxXSLNF8cj1HMGvJ6xCQ-kmY4)-->
  * Real world topologies from [Caida](https://www.caida.org/) <!-- Referenced in: [Mayer et al.](https://ieeexplore.ieee.org/iel7/8364427/8368514/08368525.pdf?casa_token=ei8AH_Jl450AAAAA:LepNJSrHBz1WK_helYtKyZRMF2syZN6ojC9HrnUOEkZFzA9evHbxXSLNF8cj1HMGvJ6xCQ-kmY4)-->
  * [The Internet Topology Zoo](http://www.topology-zoo.org)
+ * [Mininet](http://mininet.org/)
+ * [Maxinet. Distributed Emulation of sofrware-Defined Networks](https://maxinet.github.io/)
   
 ## E. IoT applications
 ---
