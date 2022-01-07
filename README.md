@@ -151,12 +151,18 @@ __TOC__
 - `IoTSim-Edge`. [Java] [Jha, D. N. et al. (2020). **"IoTSim‐Edge: A simulation framework for modeling the behavior of Internet of Things and edge computing environments"**. Software: Practice and Experience, 50(6), 844-867.](https://arxiv.org/pdf/1910.03026.pdf)  [[**Source code**]](https://github.com/DNJha/IoTSim-Edge)
 - `IoTSim-Osmosis`. [Java] [Alwasel, K. et al. (2021). **"IoTSim-Osmosis: A framework for modeling and simulating IoT applications over an edge-cloud continuum"**. Journal of Systems Architecture, 116, 101956.](https://dsg.tuwien.ac.at/team/sd/papers/Zeitschriftenartikel_2021_SD_IotSim.pdf) [[**Source code**]](https://github.com/kalwasel/IoTSim-Osmosis)
 
+- `PureEdgeSim`. [Java] [Mechalikh, C., Taktak, H., & Moussa, F. (2019, July). PureEdgeSim: A simulation toolkit for performance evaluation of cloud, fog, and pure edge computing environments. In 2019 International Conference on High Performance Computing & Simulation (HPCS) (pp. 700-707). IEEE.](http://www.doiserbia.nb.rs/img/doi/1820-0214/2021/1820-02142000042M.pdf) [[**Source code**]](https://github.com/CharafeddineMechalikh/PureEdgeSim)
+
+- `Pfogsim`. [Java] [Wang, Q. (2019). **"Pfogsim: A simulator for evaluating dynamic and layered fog computing environments"**](https://etd.auburn.edu/bitstream/handle/10415/6702/Qian%20Master%20Thesis.pdf?sequence=2&isAllowed=y) [[**Source code**]](https://github.com/jihall77/pFogSim)
+
 - `LighMANO`. [Python] [Riggio, R., Khan, S. N., Subramanya, T., Yahia, I. G. B., & Lopez, D. (2018, April). **"LightMANO: Converging NFV and SDN at the Edges of the Network"**. In NOMS 2018-2018 IEEE/IFIP Network Operations and Management Symposium (pp. 1-9). IEEE.](https://www.researchgate.net/profile/Tejas-Subramanya/publication/326284343_LightMANO_Converging_NFV_and_SDN_at_the_edges_of_the_network/links/5dd3e38a4585156b351ed5b5/LightMANO-Converging-NFV-and-SDN-at-the-edges-of-the-network.pdf) [[**Source code**]](https://github.com/lightmano/)
 
 - `Amazon, Azure IoT Edge`. [NodeJS, C# or Java] [Amazon, Azure IoT Edge](https://azure.microsoft.com/en-us/services/iot-edge/)
 
 - `SniperSim`. [Python] [Multi-core simulator.](https://snipersim.org//w/The_Sniper_Multi-Core_Simulator) 
 - `Gem5`. [C++] [Gem5: Modular platform for computer-system architecture research, encompassing system-level architecture as well as processor microarchitecture.](https://www.gem5.org/)
+- `OMNeT++`. [**OMNeT++ Discrete Event Simulator**]()
+
 
 ## C. Data traces
 ---
