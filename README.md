@@ -157,11 +157,16 @@ __TOC__
 
 - `LighMANO`. [Python] [Riggio, R., Khan, S. N., Subramanya, T., Yahia, I. G. B., & Lopez, D. (2018, April). **"LightMANO: Converging NFV and SDN at the Edges of the Network"**. In NOMS 2018-2018 IEEE/IFIP Network Operations and Management Symposium (pp. 1-9). IEEE.](https://www.researchgate.net/profile/Tejas-Subramanya/publication/326284343_LightMANO_Converging_NFV_and_SDN_at_the_edges_of_the_network/links/5dd3e38a4585156b351ed5b5/LightMANO-Converging-NFV-and-SDN-at-the-edges-of-the-network.pdf) [[**Source code**]](https://github.com/lightmano/)
 
+- `SimpleIoTSimulator`. [Python] [The InternetOfThings Simulator](https://www.simplesoft.com/SimpleIoTSimulator.html)
+- `SLEIPNIR`. [Java] [SLEIPNIR is a DAG scheduling simulator focused on mobile cloud/edge/iot infrastructures](https://github.com/vindem/sleipnir)
+- `STEP-ONE`. [Java] [Mass, J., Srirama, S. N., & Chang, C. (2020). **"STEP-ONE: simulated testbed for edge-fog processes based on the opportunistic network environment simulator"**. Journal of Systems and Software, 166, 110587.](sciencedirect.com/science/article/abs/pii/S0164121220300686) [[**Source code**]](https://github.com/jaks6/step-one)
+- `Veins`. [OMNeT++] [Veins: The open source vehicular network simulation framework.](https://github.com/sommer/veins)
+
 - `Amazon, Azure IoT Edge`. [NodeJS, C# or Java] [Amazon, Azure IoT Edge](https://azure.microsoft.com/en-us/services/iot-edge/)
 
 - `SniperSim`. [Python] [Multi-core simulator.](https://snipersim.org//w/The_Sniper_Multi-Core_Simulator) 
 - `Gem5`. [C++] [Gem5: Modular platform for computer-system architecture research, encompassing system-level architecture as well as processor microarchitecture.](https://www.gem5.org/)
-- `OMNeT++`. [**OMNeT++ Discrete Event Simulator**]()
+- `OMNeT++`. [**OMNeT++ Discrete Event Simulator**](https://omnetpp.org/)
 
 
 ## C. Data traces
