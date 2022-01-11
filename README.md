@@ -57,6 +57,7 @@ __TOC__
 
 >#### + Reinforcement Learning / Deep Reinforcement Learning
 - [Python] [Tuli, S., Casale, G., & Jennings, N. R. (2021). **"GOSH: Task Scheduling Using Deep Surrogate Models in Fog Computing Environments"**. arXiv preprint arXiv:2112.08916.](https://arxiv.org/pdf/2112.08916.pdf)  [[**Source code**]](https://github.com/imperial-qore/COSCO/tree/gosh)
+- [Java] [Tuli, S., Ilager, S., Ramamohanarao, K., & Buyya, R. (2020). **"Dynamic scheduling for stochastic edge-cloud computing environments using a3c learning and residual recurrent neural networks"**. IEEE Transactions on Mobile Computing.](http://buyya.com/papers/DynSchedulingEdgeCloudNets.pdf) [[**Source code**]](https://shreshthtuli.github.io/projects/dlsf/)
 
 >#### + Partition-based optimization
 - [Python] [Lera, I., Guerrero, C., & Juiz, C. (2018). **"Availability-aware service placement policy in fog computing based on graph partitions"**. IEEE Internet of Things Journal, 6(2), 3641-3651.](https://ieeexplore.ieee.org/iel7/6488907/6702522/08588297.pdf?casa_token=4kcKkjISfRsAAAAA:Nxm6TU3pfsk9VqE2dvHoeZa7kBvqoxqBbyRqYzvjygRDgMWjLdTmHfz_oP2jvGl_Z9mEbAyGY4I) [[**Source code**]](https://github.com/acsicuib/FogServicePlacement-ILPvsCN)
