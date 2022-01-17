@@ -149,7 +149,7 @@ __TOC__
 - `ECHO`. [Java] [Ravindra, P., Khochare, A., Reddy, S. P., Sharma, S., Varshney, P., & Simmhan, Y. (2017). **"ECHO: An Adaptive Orchestration Platform for Hybrid Dataflows across Cloud and Edge"**. In International Conference on Service-Oriented Computing (pp. 395-410).](https://arxiv.org/pdf/1707.00889.pdf) [[**Source code**]](https://github.com/dream-lab/echo)
 
 - `FogFlow`. [Go] [FogFlow: an IoT Edge Computing framework.](https://github.com/smartfog/fogflow) 
-- `EdgeSim'. [Java] [EdgeSim: An open-source simulator of edge computing and caching](https://github.com/XiaofeiTJU/EdgeSim)
+- `EdgeSim`. [Java] [EdgeSim: An open-source simulator of edge computing and caching](https://github.com/XiaofeiTJU/EdgeSim)
 - `IoTSim-Edge`. [Java] [Jha, D. N. et al. (2020). **"IoTSim‐Edge: A simulation framework for modeling the behavior of Internet of Things and edge computing environments"**. Software: Practice and Experience, 50(6), 844-867.](https://arxiv.org/pdf/1910.03026.pdf)  [[**Source code**]](https://github.com/DNJha/IoTSim-Edge)
 - `IoTSim-Osmosis`. [Java] [Alwasel, K. et al. (2021). **"IoTSim-Osmosis: A framework for modeling and simulating IoT applications over an edge-cloud continuum"**. Journal of Systems Architecture, 116, 101956.](https://dsg.tuwien.ac.at/team/sd/papers/Zeitschriftenartikel_2021_SD_IotSim.pdf) [[**Source code**]](https://github.com/kalwasel/IoTSim-Osmosis)
 
