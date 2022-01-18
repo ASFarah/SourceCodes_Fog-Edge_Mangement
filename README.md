@@ -86,6 +86,7 @@ __TOC__
 ### A.3. Computation offloading
 >#### + Reinforcement Learning
  - [Python] [Wu, D., Ullah, R., Harvey, P., Kilpatrick, P., Spence, I., & Varghese, B. (2021). **"Fedadapt: Adaptive offloading for iot devices in federated learning"**. arXiv preprint arXiv:2107.04271.](https://arxiv.org/pdf/2107.04271)[[**Source code**]](https://github.com/qub-blesson/FedAdapt)
+ - [Python] [Wang, J., Hu, J., Min, G., Zomaya, A. Y., & Georgalas, N. (2020). **"Fast adaptive task offloading in edge computing based on meta reinforcement learning"**. IEEE Transactions on Parallel and Distributed Systems, 32(1), 242-253.](https://ieeexplore.ieee.org/document/9161406) [**Source code**]](https://github.com/linkpark/metarl-offloading)
 
 >#### + Deep Reinforcement Learning
   - [Python] [Huang, L., Bi, S., & Zhang, Y. J. A. (2019). **"Deep reinforcement learning for online computation offloading in wireless powered mobile-edge computing networks"**. IEEE Transactions on Mobile Computing, 19(11), 2581-2593.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8771176&casa_token=ZhYRKqP1KfgAAAAA:wVHyWs1iRPHRZvM1Bmk6aqRdbJL51xefIdkBg6JyEUdsFtTFfbl_sOB2J5cMjQUMej5z4mh2qlQ&tag=1) [[**Source code**]](https://github.com/revenol/DROO)
@@ -94,7 +95,8 @@ __TOC__
   - [Python] [Huang, L., Feng, X., Feng, A., Huang, Y., & Qian, L. P. (2018). **"Distributed deep learning-based offloading for mobile edge computing networks"**. Mobile networks and applications, 1-8.](https://www.researchgate.net/profile/Liang-Huang-33/publication/329279256_Distributed_Deep_Learning-based_Offloading_for_Mobile_Edge_Computing_Networks/links/5c076f3b458515ae5447b313/Distributed-Deep-Learning-based-Offloading-for-Mobile-Edge-Computing-Networks.pdf) [[**Source Code**]](https://github.com/revenol/DDLO)
   -  [Python] [Huang, L., Bi, S., & Zhang, Y. J. A. (2019). **"Deep reinforcement learning for online computation offloading in wireless powered mobile-edge computing networks"**. IEEE Transactions on Mobile Computing, 19(11), 2581-2593.](https://ieeexplore.ieee.org/iel7/7755/4358975/08771176.pdf?casa_token=pnru4Uqy0gUAAAAA:P8_EKTbPbrfdJ_RELgRV9Kjo_Qt9T9tz4Ppf_HIc_LaoT-Lu3mj5aC07y7IHy1XBgmbbMuV0Mto) [[**Source Code**]](https://github.com/jordan8409212/RL-for-binary-computation-offloading-in-wireless-powered-MEC-networks)
   -  [Python] [Tang, M., & Wong, V. W. (2020). **"Deep reinforcement learning for task offloading in mobile edge computing systems"**. IEEE Transactions on Mobile Computing.](https://arxiv.org/pdf/2005.02459)  [[**Source Code**]](https://github.com/mingt2019/Deep-Q-learning-for-mobile-edge-computing)
-
+  -  [Python] [Wang, J., Hu, J., Min, G., Zhan, W., Zomaya, A., & Georgalas, N. (2021). **"Dependent task offloading for edge computing based on deep reinforcement learning"**. IEEE Transactions on Computers.](https://ieeexplore.ieee.org/document/9627763) [[**Source Code**]](https://github.com/linkpark/RLTaskOffloading)
+ 
 >#### + Fuzzy Logic
 - [Java] [Basic, F., Aral, A., & Brandic, I. (2019, June). **"Fuzzy handoff control in edge offloading"**. In 2019 IEEE International Conference on Fog Computing (ICFC) (pp. 87-96). IEEE.](https://www.researchgate.net/profile/Atakan-Aral/publication/335580866_Fuzzy_Handoff_Control_in_Edge_Offloading/links/5fd6a10b92851c13fe84cb27/Fuzzy-Handoff-Control-in-Edge-Offloading.pdf) [[**Source Code**]](https://github.com/BasFa/FHC-simulator/)
 
