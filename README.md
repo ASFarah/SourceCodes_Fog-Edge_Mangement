@@ -86,7 +86,7 @@ __TOC__
 ### A.3. Computation offloading
 >#### + Reinforcement Learning
  - [Python] [Wu, D., Ullah, R., Harvey, P., Kilpatrick, P., Spence, I., & Varghese, B. (2021). **"Fedadapt: Adaptive offloading for iot devices in federated learning"**. arXiv preprint arXiv:2107.04271.](https://arxiv.org/pdf/2107.04271)[[**Source code**]](https://github.com/qub-blesson/FedAdapt)
- - [Python] [Wang, J., Hu, J., Min, G., Zomaya, A. Y., & Georgalas, N. (2020). **"Fast adaptive task offloading in edge computing based on meta reinforcement learning"**. IEEE Transactions on Parallel and Distributed Systems, 32(1), 242-253.](https://ieeexplore.ieee.org/document/9161406) [**Source code**]](https://github.com/linkpark/metarl-offloading)
+ - [Python] [Wang, J., Hu, J., Min, G., Zomaya, A. Y., & Georgalas, N. (2020). **"Fast adaptive task offloading in edge computing based on meta reinforcement learning"**. IEEE Transactions on Parallel and Distributed Systems, 32(1), 242-253.](https://ieeexplore.ieee.org/document/9161406) [**Source code**](https://github.com/linkpark/metarl-offloading)
 
 >#### + Deep Reinforcement Learning
   - [Python] [Huang, L., Bi, S., & Zhang, Y. J. A. (2019). **"Deep reinforcement learning for online computation offloading in wireless powered mobile-edge computing networks"**. IEEE Transactions on Mobile Computing, 19(11), 2581-2593.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8771176&casa_token=ZhYRKqP1KfgAAAAA:wVHyWs1iRPHRZvM1Bmk6aqRdbJL51xefIdkBg6JyEUdsFtTFfbl_sOB2J5cMjQUMej5z4mh2qlQ&tag=1) [[**Source code**]](https://github.com/revenol/DROO)
